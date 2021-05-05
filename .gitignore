@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 tp1/TP_viejo.ipynb
+tp1/data/
